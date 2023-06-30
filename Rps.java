@@ -1,3 +1,6 @@
+//This is a very simple java program to run and play the timeless game of rock, paper, scissors on a single game,
+// best n of n+(n-1) game basis, or infinite game basis.
+
 import java.util.Scanner;
 import java.util.Random;
 

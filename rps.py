@@ -1,4 +1,5 @@
-# This is a very simple python script to run and play the timeless game of rock, paper, scissors on a single game, best n of n+2 game, or infinite game basis.
+# This is a very simple python script to run and play the timeless game of rock, paper, scissors on a single game, 
+# best n of n+(n-1) game basis, or infinite game basis.
 
 import random
 

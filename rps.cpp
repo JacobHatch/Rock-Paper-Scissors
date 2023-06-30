@@ -1,5 +1,5 @@
 //This is a very simple c++ program to run and play the timeless game of rock, paper, scissors on a single game,
-// best n of n+2 game basis, or infinite game basis.
+// best n of n+(n-1) game basis, or infinite game basis.
 
 #include <iostream>
 #include <cstdlib>
